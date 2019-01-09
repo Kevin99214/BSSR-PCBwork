@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=Net1_1 Pin=1-1
+Added Pin To Net: NetName=GND Pin=1-2
+Added Pin To Net: NetName=3V3 Pin=1-5
+Added Pin To Net: NetName=Net1_6 Pin=1-6
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=NetK1_2 Pin=K1-2
+Added Room: Name=Steering_Wheel_Board

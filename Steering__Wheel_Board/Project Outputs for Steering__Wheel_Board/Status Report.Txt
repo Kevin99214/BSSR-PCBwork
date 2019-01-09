@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Steering__Wheel_Board.PrjPcb]
+   Generated File[Steering_Wheel_Board2.TXT]
+   Generated File[Steering_Wheel_Board2.LDP]
+   Generated File[Steering_Wheel_Board2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:22:01 PM On 11/29/2018
